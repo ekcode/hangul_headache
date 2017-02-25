@@ -1,4 +1,5 @@
 cnoremap ㅈ w<CR>
+cnoremap ㅂ q<CR>
 nnoremap 가 i가
 nnoremap 각 i각
 nnoremap 간 i간
